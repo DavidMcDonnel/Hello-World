@@ -1,0 +1,12 @@
+body{
+background-color:blue;
+width:760px;
+margin:0 auto;
+padding: 0;
+font: Verdana, sans-serif;
+}
+.heading{
+color: red;
+font: Verdana, sans-serif;
+text:center;
+}
