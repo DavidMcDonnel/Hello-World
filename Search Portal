@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Search Portal</title>
+<link rel="stylesheet" type="text/css" href="C:\Users\dmcdonnel\Documents\GitHub\StyleSheet.css"/>
+</head>
+
+<body>
+	<form action="https://duckduckgo.com/search" method="GET">
+		<label>Search Query:<input type="text" name="searchText"/></label>
+		<input type="submit" value="Search"/>
+	</form>
+</body>
+</html>
